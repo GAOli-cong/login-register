@@ -1,5 +1,7 @@
 # login-register
 springbot+mybaits登录注册后台代码返回json
+用于自己的学习
+
 csdn博客地址https://blog.csdn.net/glc11223344/article/details/105793370
 
 数据库表
